@@ -17,10 +17,10 @@ tasks. The Anchor framework covers all those drawbacks.
 
 
 Requirements
-NodeJS 12 or higher (https://nodejs.org/en/download/package-manager)
-Rust (https://www.rust-lang.org/tools/install) 
-Solana CLI (https://docs.solanalabs.com/cli/install)
-Anchor (https://www.anchor-lang.com/docs/installation)
-Yarn  (https://yarnpkg.com/getting-started/install)
+* NodeJS 12 or higher (https://nodejs.org/en/download/package-manager)
+* Rust (https://www.rust-lang.org/tools/install) 
+* Solana CLI (https://docs.solanalabs.com/cli/install)
+* Anchor (https://www.anchor-lang.com/docs/installation)
+* Yarn  (https://yarnpkg.com/getting-started/install)
 
 
